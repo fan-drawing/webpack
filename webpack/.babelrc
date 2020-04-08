@@ -1,0 +1,22 @@
+{
+    "presets": [
+      [
+        "env",
+        {
+          "targets": {
+            "browsers": [ //浏览器版本
+              "> 1%",
+              "last 2 versions",
+              "not ie <= 8",
+              "iOS >= 6",
+              "safari >= 6",
+              "Firefox >= 20",
+              "Android > 4",
+              "android >= 4.4"
+            ]
+          }
+        }
+      ]
+    ],
+    "plugins": ["transform-runtime"]
+  }

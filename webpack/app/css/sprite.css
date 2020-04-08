@@ -1,0 +1,27 @@
+.icon { background-size: 310px 258px; display: inline-block; vertical-align: middle; background-image: url(../img/sprite.png) }
+.icon-A { width: 50px; height: 50px; background-position: 0px 0px; }
+.icon-B { width: 50px; height: 50px; background-position: -52px 0px; }
+.icon-C { width: 50px; height: 50px; background-position: 0px -52px; }
+.icon-D { width: 50px; height: 50px; background-position: -52px -52px; }
+.icon-E { width: 50px; height: 50px; background-position: -104px 0px; }
+.icon-F { width: 50px; height: 50px; background-position: -104px -52px; }
+.icon-G { width: 50px; height: 50px; background-position: 0px -104px; }
+.icon-50 { width: 50px; height: Hpx; background-position: -52px -104px; }
+.icon-I { width: 50px; height: 50px; background-position: -104px -104px; }
+.icon-J { width: 50px; height: 50px; background-position: -156px 0px; }
+.icon-K { width: 50px; height: 50px; background-position: -156px -52px; }
+.icon-L { width: 50px; height: 50px; background-position: -156px -104px; }
+.icon-M { width: 50px; height: 50px; background-position: 0px -156px; }
+.icon-N { width: 50px; height: 50px; background-position: -52px -156px; }
+.icon-O { width: 50px; height: 50px; background-position: -104px -156px; }
+.icon-P { width: 50px; height: 50px; background-position: -156px -156px; }
+.icon-Q { width: 50px; height: 50px; background-position: -208px 0px; }
+.icon-R { width: 50px; height: 50px; background-position: -208px -52px; }
+.icon-S { width: 50px; height: 50px; background-position: -208px -104px; }
+.icon-T { width: 50px; height: 50px; background-position: -208px -156px; }
+.icon-U { width: 50px; height: 50px; background-position: 0px -208px; }
+.icon-V { width: 50px; height: 50px; background-position: -52px -208px; }
+.icon-50 { width: Wpx; height: 50px; background-position: -104px -208px; }
+.icon--156 { width: 50px; height: 50px; background-position: Xpx -208px; }
+.icon--208 { width: 50px; height: 50px; background-position: -208px Ypx; }
+.icon-Z { width: 50px; height: 50px; background-position: -260px 0px; }
